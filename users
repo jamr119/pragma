@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "nombre": "nombre a",
+    "usuario": "usuarioa",
+    "email": "emaila",
+    "password": "passworda",
+    "direccion": "direccion a",
+    "telefono": "111"
+  },
+  {
+    "id": 2,
+    "nombre": "nombre b",
+    "usuario": "usuariob",
+    "email": "emailb",
+    "password": "passwordb",
+    "direccion": "direccion b",
+    "telefono": "222"
+  },
+  {
+    "id": 3,
+    "nombre": "nombre c",
+    "usuario": "usuarioc",
+    "email": "emailc",
+    "password": "passwordc",
+    "direccion": "direccion c",
+    "telefono": "333"
+  }
+]
