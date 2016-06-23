@@ -6,7 +6,7 @@
     "email": "emaila",
     "password": "passworda",
     "direccion": "direccion a",
-    "telefono": 111
+    "telefono": "111"
   },
   {
     "id": 2,
@@ -15,7 +15,7 @@
     "email": "emailb",
     "password": "passwordb",
     "direccion": "direccion b",
-    "telefono": 222
+    "telefono": "222"
   },
   {
     "id": 3,
@@ -24,6 +24,6 @@
     "email": "emailc",
     "password": "passwordc",
     "direccion": "direccion c",
-    "telefono": 333
+    "telefono": "333"
   }
 ]
